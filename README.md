@@ -19,3 +19,7 @@ Analysis for understanding a large swatch of `no_data` in some cells.
 ### `hsc-y-band` notebook
 
 Exploring effects of a single bad warp on final coadd images.
+
+### `healsparse-plots` notebook
+
+A notebook to plot summary statistics of cell-based coadds onto sky plots.
